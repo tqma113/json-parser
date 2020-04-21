@@ -1,0 +1,32 @@
+{
+    "name": "json-parser",
+    "version": "1.0.0",
+    "description": "A JSON parser with ts",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/tqma113/json-parser.git"
+    },
+    "keywords": [
+        "json",
+        "parser",
+        "typescript",
+        "nodejs"
+    ],
+    "author": "Ma Tianqi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tqma113/json-parser/issues"
+    },
+    "homepage": "https://github.com/tqma113/json-parser#readme",
+    "devDependencies": {
+        "@types/jest": "^25.2.1",
+        "@types/node": "^13.13.1",
+        "jest": "^25.4.0",
+        "ts-jest": "^25.4.0",
+        "typescript": "^3.8.3"
+    }
+}
