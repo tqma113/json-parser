@@ -1,4 +1,4 @@
-import parse from '../src/parse'
+import parse from '../src/'
 
 describe('json parser', () => {
     describe('string parse', () => {
